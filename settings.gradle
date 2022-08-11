@@ -1,0 +1,3 @@
+include ':lib_sheet'
+include ':app'
+rootProject.name = "BottomSheet"
